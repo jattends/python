@@ -1,3 +1,5 @@
 *.jpeg
 *.png
 *.jpg
+/.idea
+/.venv
