@@ -14,5 +14,5 @@ for k in("nithanth"):
 for k in{"name" :"nithanth","age" :"19",}:
     print(k)
 """
-for i in range (1,100):
+for i in range (1,10):
     print("* "*i)
