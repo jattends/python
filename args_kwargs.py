@@ -10,9 +10,22 @@ def fun():
     print(a)
 fun()
 """
-a=50
+"""a=50
 def fun():
     global a
     a=a+30
     print(f"sum is :{a}")
-fun()
+fun()"""
+#mapping[
+"""def square(n):
+    return n*n
+number=[1,2,3,4,5,6]
+squares=list(map(square,number))
+print(squares)"""
+l1=[1,2,3,4,5,6]
+square=list(map(lambda x:x**2,l1))
+print(square)
+
+
+
+

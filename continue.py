@@ -1,4 +1,4 @@
-while True:
+""""while True:
  a=int(input("Enter your first number :"))
  b=int(input("Enter your second number :"))
  print("1.addition\n2.substraction\n3.multipilcation\n4.division")
@@ -23,3 +23,7 @@ while True:
 
 
 
+"""
+def add(x, y):
+    return x + y
+print(add(1,2) )
