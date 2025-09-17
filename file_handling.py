@@ -19,4 +19,3 @@ data = {"Name" : "nithanth","course" : "python" , "age" : 25}
 
 with open("data.pkl","wb") as file:
     pickel = pickle.dumps(data,file)
-
